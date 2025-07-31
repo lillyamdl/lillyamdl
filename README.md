@@ -81,3 +81,5 @@ Me chamo Lillya Maria, estudante de Ciências da Computação na Universidade Es
   />
 
 </p>
+
+![Snake animation](https://github.com/lillyamdl)
