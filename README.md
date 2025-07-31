@@ -20,7 +20,8 @@
     </a>
 </p>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+
+![Image](https://github.com/user-attachments/assets/5242f52c-1158-4c63-8a56-8505a63d7c46)
 
 <h3 align="left">Connect with me!</h3>
 
