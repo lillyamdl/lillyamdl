@@ -1,6 +1,6 @@
 # 👩‍💻 Lillya Maria 
 
-Me chamo Lillya Maria, tenho 17 anos e sou natural da Paraíba. 
+Me chamo Lillya Maria, estudante de Ciências da Computação na Universidade Estadual da Paraíba. 
 
 </p>
     <a href="https://github.com/lillyamdl?tab=followers">
