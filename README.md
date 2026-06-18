@@ -14,17 +14,13 @@
 
 ![Image](https://github.com/user-attachments/assets/5242f52c-1158-4c63-8a56-8505a63d7c46)
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect with me! </h3> 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lillyamaria980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lillya-maria-a080b4356/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lya.mdl/)
 
-
 ---
-
-
-## Estatísticas
 
 <div align="center">
   <img 
