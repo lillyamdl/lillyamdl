@@ -5,8 +5,12 @@
   </a>
 </div>
 
+<div align="center">
 
-<p align="center">Me chamo Lillya Maria, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+*✿ Hello! My name is Lillya Maria, and I am a Computer Science student at the State University of Paraíba. Driven by curiosity and a passion for technology, I am constantly expanding my knowledge and exploring new challenges in the tech world. ✿*
+
+</div>
   
 #
 
@@ -18,7 +22,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lillyamaria980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lillya-maria-a080b4356/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lya.mdl/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lillyamdl/)
 
 ---
 
@@ -31,3 +35,14 @@
 </div>
 
 ---
+
+<div align="center">
+
+⋆｡˚ ☁︎ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆｡˚ ☁︎ ˚｡⋆
+
+***happy coding***
+
+</div>
+
+***happy coding***
+v>
